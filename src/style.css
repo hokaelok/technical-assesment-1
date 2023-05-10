@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-title {
+	font-weight: 700;
+	font-size: 60px;
+}
+
+.header-tagline {
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.navbar-menu {
+	font-weight: 500;
+	font-size: 14px;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 30px;
+}
+
+h2 {
+	font-weight: 500;
+	font-size: 20px;
+}
+
+.H3-bold {
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.H3-semibold {
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.H3-medium {
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.H4-regular {
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.P-bold {
+	font-weight: 700;
+	font-size: 13px;
+}
+
+.P-medium {
+	font-weight: 500;
+	font-size: 13px;
+}
+
+.P-regular {
+	font-weight: 400;
+	font-size: 13px;
+}
